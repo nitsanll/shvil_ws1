@@ -1,5 +1,5 @@
 {
-  "name": "shvil1_ws",
+  "name": "webservice",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,14 +12,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nitsanll/shvil1_ws.git"
-  },
   "author": "nitsan and zlil",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/nitsanll/shvil1_ws/issues"
-  },
-  "homepage": "https://github.com/nitsanll/shvil1_ws#readme"
+  "license": "ISC"
 }
